@@ -1,0 +1,2 @@
+# Get_JRH_Train_Status
+JRの運行情報を取得するDiscordのbot
